@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: sans-serif;
+}
+h2 {
+    font-size: 5rem;
+    margin: 1rem;
+}
+button {
+    outline: none;
+    padding: 1rem 2rem;
+    margin: 0.5rem;
+    background-color: #a8ff8e;
+    border: 1px solid black;
+    border-radius: 8px;
+    cursor: pointer;
+}
+button:disabled {
+  background-color: #a7a7a7;  
+  cursor: not-allowed;         
+  opacity: 0.6;
+}
