@@ -14,7 +14,8 @@ button {
     outline: none;
     padding: 1rem 2rem;
     margin: 0.5rem;
-    background-color: #a8ff8e;
+    background-color: #ffe922;
+    font-size: 1.1rem;
     border: 1px solid black;
     border-radius: 8px;
     cursor: pointer;
